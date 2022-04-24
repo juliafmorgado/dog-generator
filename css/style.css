@@ -26,8 +26,8 @@
   .container {
     display: flex;
     flex-direction: row;
-    padding-left: 25vw;
-    padding-right: 10vw;
+justify-content: center;
+    border: 1px solid red;
   }
   
   
