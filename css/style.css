@@ -34,6 +34,20 @@
     list-style-type: none;
   }
   
+  select{
+    padding: 5px;
+  }
+
+  img{
+    margin-top: 10px;
+    width: 25vw;
+
+  }
+
+  .characteristics{
+    border: 2px solid red;
+    max-width: 25vw;
+  }
   /******************************************
   /* ADDITIONAL STYLES
   /*******************************************/

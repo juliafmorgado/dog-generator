@@ -68,7 +68,7 @@ const doggoInfo = {
             this.MF = 'Male'
             this.assignName(this.mNames)
         }
-        document.getElementById('MF').innerHTML = `S: ${this.MF}`
+        document.getElementById('MF').innerHTML = `<b>S:</b> ${this.MF}`
     },   //DON'T FORGET THE COMMA
 
     assignName(array) {
@@ -78,7 +78,7 @@ const doggoInfo = {
 
     assignAge() {
         this.age = (Math.floor(Math.random() * 16 + 1)) //+1 to make sure it's not 0
-        document.getElementById('age').innerText = `Age: ${this.age}`
+        document.getElementById('age').innerHTML = `<b>Age:</b> ${this.age}`
     },
 
     yatesShuffle(array) {
@@ -97,17 +97,17 @@ const doggoInfo = {
 
     assignLikes() {
         this.likes = this.yatesShuffle(this.likesList).slice(0, 2)
-        document.getElementById('likes').innerHTML = `Likes: ${this.likes[0]}, ${this.likes[1]}`
+        document.getElementById('likes').innerHTML = `<b>Likes:</b> ${this.likes[0]}, ${this.likes[1]}`
     },
 
     assignDislikes() {
         this.dislikes = this.yatesShuffle(this.dislikesList).slice(0, 2)
-        document.getElementById('dislikes').innerHTML = `Dislikes: ${this.dislikes[0]}, ${this.dislikes[1]}`
+        document.getElementById('dislikes').innerHTML = `<b>Dislikes:</b> ${this.dislikes[0]}, ${this.dislikes[1]}`
     },
 
     assignFunFact() {
         this.fact = this.factList[Math.floor(Math.random() * this.factList.length)]
-        document.getElementById('fun-fact').innerHTML = `Additional info: ${this.fact}`
+        document.getElementById('fun-fact').innerHTML = `<b>Additional info:</b> ${this.fact}`
     }
 
 }
