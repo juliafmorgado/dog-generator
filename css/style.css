@@ -33,6 +33,9 @@
   li {
     list-style-type: none;
   }
+  ul{
+    padding: 0;
+  }
   
   select{
     padding: 5px;
@@ -47,6 +50,7 @@
   .characteristics{
     border: 2px solid red;
     max-width: 25vw;
+    margin-left: 15px;
   }
   /******************************************
   /* ADDITIONAL STYLES
