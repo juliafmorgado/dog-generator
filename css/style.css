@@ -26,11 +26,13 @@
   .container {
     display: flex;
     flex-direction: row;
-justify-content: center;
-    border: 1px solid red;
+    justify-content: center;
+
   }
   
-  
+  li {
+    list-style-type: none;
+  }
   
   /******************************************
   /* ADDITIONAL STYLES
