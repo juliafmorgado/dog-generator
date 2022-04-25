@@ -1,6 +1,6 @@
 <h1 align='center'> Dog Generator | <a href='https://juliafmorgado.github.io/dog-generator/'>Visit here!</a></h1>
 
-<img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Project%20Images/dog-generator.gif' width='100%'>
+<img src='https://github.com/juliafmorgado/dog-generator/blob/main/dog-generator.gif' width='100%'>
 
 <h3 align='center'> Tool that delivers infinite adorable pups with unique names and characteristics!</h3>
 
