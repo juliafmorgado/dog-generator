@@ -14,7 +14,7 @@
 .nav-link {
    border-top: 0px solid transparent;
       background: transparent;
-      border-top: 2px solid grey;
+      border-top: 2px solid rgba(255, 244, 105, .9);
       color: white;}
 
 .nav-link.active {
@@ -117,7 +117,7 @@ body {
   border-radius: 20px;
   color: white;
   text-align: center;
-  background: rgba(159, 168, 218, .4);
+  background: rgba(255, 244, 105, .4);
   background-opacity: .1;
 }
 
