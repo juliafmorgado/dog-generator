@@ -67,7 +67,8 @@ background: transparent !important;}
 
  #random-dog, #dog-content{
   margin: auto;
-   margin-top: 5%;
+   margin-top: 4%;
+   padding-top: 0;
 
 }
 
