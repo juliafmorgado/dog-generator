@@ -18,18 +18,18 @@
       color: white;}
 
 .nav-link.active {
-  border-bottom: 5px solid #D1C4E9;
+  border-bottom: 5px solid #f5eba4;
 background: transparent !important;}
 
 .nav-link:hover {
-  color: #D1C4E9;
+  color: #f5eba4;
   background: RGBA(255, 255, 255, 0.2) !important;}
 
 .header {
   font-family: 'Libre Barcode 128 Text', cursive;
   padding-top: 2%;
   vertical-align: center;
-  background: rgba(121, 134, 203, .45);
+  background: rgba(255, 244, 105, .45);
   height: 20%;
   text-align: center;
   letter-spacing: 1px;
@@ -49,12 +49,12 @@ background: transparent !important;}
   height: 20%;
   letter-spacing: 5px;
   font-size: 2em;
-  background: rgba(121, 134, 203, .6);
+  background: rgba(255, 244, 105, .6);
   border: 0px solid;
 }
 
 .btn:hover {
-  background: rgba(121, 134, 203, .9);
+  background: rgba(255, 244, 105, .9);
   border: 0px solid;
 }
 
@@ -73,7 +73,7 @@ background: transparent !important;}
 
 .side-bar {
     margin-top: 5%;
-  background: rgba(121, 134, 203, .1);
+  background: rgba(255, 244, 105, .1);
     text-align: center;
 }
 
@@ -92,8 +92,8 @@ background: transparent !important;}
 }
 #dog-menu a.active {
   background: RGBA(255, 255, 255, 0.3) !important; 
-  border: 2px solid #D1C4E9;
-  color: #D1C4E9
+  border: 2px solid #f5eba4;
+  color: #f5eba4
 }
 
 body {
@@ -128,9 +128,9 @@ body {
   width: 60%;
   text-align: center;
   background: RGBA(0,0,0, 0.4);
-  background: rgba(121, 134, 203, .3);
+  background: rgba(255, 244, 105, .3);
   border-radius: 10px;
-   border: .01vw solid #D1C4E9;
+   border: .01vw solid #f5eba4;
 }
 
 .jumbotron p {
