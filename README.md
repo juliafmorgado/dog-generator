@@ -2,7 +2,7 @@
 
 <img src='https://github.com/juliafmorgado/dog-generator/blob/main/doggo-generator.gif' width='100%'>
 
-<h3 align='center'> Tool that delivers infinite adorable random pups and pups by breed!</h3>
+<h3 align='center'> App that delivers infinite adorable random pups and pups by breed!</h3>
 
 <br>
 
